@@ -1,4 +1,4 @@
-# Fashion-Industry-Analysis-Trends-Insights-and-Performance
+# Fashion-Industry-Analysis
 
 ## **Executive Summary**
 **Objective:**
